@@ -1,0 +1,1 @@
+# KABI Calamares config
